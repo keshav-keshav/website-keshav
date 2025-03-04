@@ -1,0 +1,19 @@
+project: 
+  type: website
+  preview:
+   browser: true   
+
+website:
+  title: "Keshav kumar"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+format:
+  html:
+    theme: darkly
+    fontcolor: black
+    linkcolor: black
+    backgroundcolor: white
