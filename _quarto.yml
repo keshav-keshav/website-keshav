@@ -1,19 +1,33 @@
 project: 
   type: website
+  render:
+    - "*.{qmd,R,py}"
+    - "!utils.py"
   preview:
-   browser: true   
+    browser: true   
 
 website:
   title: "Keshav kumar"
+  site-url: "https://keshav-kumar.netlify.app/"
+  description: "Namaste, Let's connect here"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: about.qmd
+        href: about.qmd 
+          
+        
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/keshav-kumar-563877198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      - icon: github
+        href: https://github.com/keshav-keshav 
 format:
   html:
     theme: darkly
+    css: styles.css
     fontcolor: black
     linkcolor: black
     backgroundcolor: white
+    

@@ -4,6 +4,7 @@ subtitle: "History Hons Student, Delhi University"
 image: images/keshav.png
 about: 
   template: trestles
+  image-width: 60%
   links:
     - icon: github
       text: GitHub
@@ -18,7 +19,7 @@ about:
 
 ## Namaste
 
-I am a History enthusiast who loves exploring diverse culture,languages and people around the world.I strive to make education accessible to all to create a more sustainable future.
+I am a History enthusiast who loves exploring diverse culture,languages and people around the world.I strive to make education accessible to all for creating a more sustainable future.
 Here, I exchange ,reimagine and reshape my ideas and knowledge with our digital community
 
 ## EDUCATION
