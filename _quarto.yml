@@ -7,7 +7,7 @@ project:
     browser: true   
 
 website:
-  title: "Keshav kumar"
+  title: "Keshav Kumar"
   site-url: "https://keshav-kumar.netlify.app/"
   description: "Namaste, Let's connect here"
   navbar:
@@ -23,6 +23,11 @@ website:
         href: https://www.linkedin.com/in/keshav-kumar-563877198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
       - icon: github
         href: https://github.com/keshav-keshav 
+  page-footer: 
+    left: "Copyright 2025, Keshav Kumar" 
+    center: "Made with❤️"
+    right: "Supported by [SARA](https://sara-edu.netlify.app/)"
+    
 format:
   html:
     theme: darkly
