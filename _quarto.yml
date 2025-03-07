@@ -15,8 +15,13 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: about.qmd 
-          
+        href: about.qmd
+      - text: "Articles"
+        menu:
+            - chapter1.qmd
+             
+      
+      
         
     tools:
       - icon: linkedin
